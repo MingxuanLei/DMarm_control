@@ -33,7 +33,6 @@ from PySide6.QtWidgets import (
     QMessageBox,
     QSplitter,
 )
-
 from USBCANFD import USBCANFD
 from DMMotor import DMMotor
 from Robot import Robot
